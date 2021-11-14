@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RajatSatashiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatsatashiya/)](https://www.linkedin.com/in/rajatsatashiya/)
 [![Gmail Badge](https://img.shields.io/badge/-rajat09satashiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajat09satashiya@gmail.com)](mailto:rajat09satashiya@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=RajatSatashiya&color=blueviolet&label=Profile+Views)
+
 ## Languages🐧 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSatashiya&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
@@ -33,3 +33,4 @@
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=RajatSatashiya&theme=tokyonight">
 
  </p>
+
